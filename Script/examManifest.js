@@ -4,6 +4,36 @@
 export const examList = [
   {
     "id": "DIET AND HEALTH",
+    "category": "English - Copy",
+    "title": "DIET AND HEALTH",
+    "path": "../Exams/English - Copy/DIET AND HEALTH.js"
+  },
+  {
+    "id": "PROFESSIONAL LIFE",
+    "category": "English - Copy",
+    "title": "PROFESSIONAL LIFE",
+    "path": "../Exams/English - Copy/PROFESSIONAL LIFE.js"
+  },
+  {
+    "id": "SHARED LIVING",
+    "category": "English - Copy",
+    "title": "SHARED LIVING",
+    "path": "../Exams/English - Copy/SHARED LIVING.js"
+  },
+  {
+    "id": "TECHNOLOGY",
+    "category": "English - Copy",
+    "title": "TECHNOLOGY",
+    "path": "../Exams/English - Copy/TECHNOLOGY.js"
+  },
+  {
+    "id": "WEATHER AND HEALTH",
+    "category": "English - Copy",
+    "title": "WEATHER AND HEALTH",
+    "path": "../Exams/English - Copy/WEATHER AND HEALTH.js"
+  },
+  {
+    "id": "DIET AND HEALTH",
     "category": "English",
     "title": "DIET AND HEALTH",
     "path": "../Exams/English/DIET AND HEALTH.js"
