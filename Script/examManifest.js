@@ -31,5 +31,11 @@ export const examList = [
     "category": "English",
     "title": "WEATHER AND HEALTH",
     "path": "../Exams/English/WEATHER AND HEALTH.js"
+  },
+  {
+    "id": "Reading Exam",
+    "category": "Reading",
+    "title": "Reading Exam",
+    "path": "../Exams/Reading/Reading Exam.js"
   }
 ];
